@@ -1,3 +1,7 @@
+Original repo.    
+Example repo for Rate Limiter using Spring Cloud Gateway.   
+https://github.com/TechPrimers/ratelimiter-example.   
+
 # Rate Limiter using Spring Cloud Gateway
 
 ## Architecture
